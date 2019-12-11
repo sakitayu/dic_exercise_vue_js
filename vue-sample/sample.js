@@ -6,7 +6,7 @@ new Vue({
     name: 'A山B郎',
     cource: 'Webエンジニアコース',
     acceptancePeriod: '2019年01月期',
-    defaultLastId: 3,
+    defaultLastId: 4,
     students: [
       { id: 1, name: '野呂浩良', cource: '機械学習コース', acceptancePeriod: '2019年01月期' },
       { id: 2, name: '富永修司', cource: 'Webエンジニアコース', acceptancePeriod: '2017年11月期' },
